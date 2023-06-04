@@ -17,7 +17,4 @@
 
 ---
 
-<a href="https://linkedin.com/in/yunesco">
-  <img align="left" alt="Younes's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-| &nbsp;&nbsp; Website: https://www.yunes.co
+Website: https://www.yunes.co
