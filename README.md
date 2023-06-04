@@ -2,7 +2,6 @@
 
 ---
 
-Skills:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,11 +9,9 @@ Skills:
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 &nbsp;&nbsp;&nbsp;
-Tools:
 ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;&nbsp;&nbsp;
-![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 **Senior Frontend Engineer** &#12299;_specialised in building user-friendly frontend solutions_
 <br/>
@@ -24,4 +21,4 @@ Tools:
 <a href="https://linkedin.com/in/yunesco">
   <img align="left" alt="Younes's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-| &nbsp;&nbsp;&nbsp; Website: [https://yunes.co](https://yunes.co) &nbsp;&nbsp;&nbsp;</sub>
+| &nbsp;&nbsp;&nbsp; Website: ![https://yunes.co](https://yunes.co) &nbsp;&nbsp;&nbsp;</sub>
