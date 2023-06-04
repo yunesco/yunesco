@@ -21,4 +21,4 @@
 <a href="https://linkedin.com/in/yunesco">
   <img align="left" alt="Younes's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-| &nbsp;&nbsp;&nbsp; Website: ![https://yunes.co](https://yunes.co) &nbsp;&nbsp;&nbsp;</sub>
+| Website: [https://yunes.co](https://yunes.co)</sub>
