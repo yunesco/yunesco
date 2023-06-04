@@ -8,7 +8,6 @@
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-&nbsp;&nbsp;&nbsp;
 ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;&nbsp;&nbsp;
@@ -21,4 +20,4 @@
 <a href="https://linkedin.com/in/yunesco">
   <img align="left" alt="Younes's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-| Website: [https://yunes.co](https://yunes.co)
+| &nbsp;&nbsp;  Website: [https://yunes.co](https://yunes.co)
